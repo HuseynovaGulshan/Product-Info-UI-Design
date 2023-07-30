@@ -1,0 +1,30 @@
+.icon-13px{
+  width: 13px;
+  height: 13px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.icon-32px{
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.icon-green{
+  background-image: url(../icon/green.svg);
+}
+.icon-frame{
+  background-image: url(../icon/Frame.svg);
+}
+.icon-heart{
+  background-image: url(../icon/heart.svg);
+}

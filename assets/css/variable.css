@@ -1,0 +1,51 @@
+:root{
+  color: var(--191847, #191847);
+}
+.c-f{
+  color:#FFF;
+}
+.flex{
+  display:flex;
+}
+.flex-d{
+  flex-direction: column;
+}
+.items{
+  align-items: flex-start;
+}
+.item-c{
+  align-items: center;
+}
+.r-15{
+  border-radius: 15px;
+}
+.r-8{
+  border-radius: 8px;
+}
+.r-20{
+  border-radius:20px;
+}
+.g-8{
+  gap:8px;
+}
+.g-10{
+  gap:10px;
+}
+.g-32{
+  gap:32px;
+}
+.g-16{
+  gap:16px;
+}
+.p-82{
+  padding: 82px;
+}
+.text-line{
+  text-decoration-line: strikethrough;
+}
+.p-16{
+  padding:16px;
+}
+.w-442{
+  width: 442px;
+}
